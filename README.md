@@ -9,9 +9,8 @@ Enjoys participating in hackathons and collaborating with like-minded individual
 
 The primary objective is to develop innovative software applications that seamlessly integrate data and AI, delivering personalized user experiences that effectively meet client goals and drive engagement.
 
-Skills:
-
-Programming Languages: Python, JavaScript, SQL
-Frameworks: React, Flask, Node.js
-Tools & Technologies: AWS, Docker, MongoDB, Elasticsearch, Spark, Kafka, Git, Jenkins, Kubernetes
-Specializations: Full-Stack Development, Data Infrastructure, AI/ML, Large Language Models (LLM)
+**Skills:**
+- **Programming Languages:** Python, JavaScript, SQL
+- **Frameworks:** React, Flask, Node.js
+- **Tools & Technologies:** AWS, Docker, MongoDB, Elasticsearch, Spark, Kafka, Git, Jenkins, Kubernetes
+- **Specializations:** Full-Stack Development, Data Infrastructure, AI/ML, Large Language Models (LLM)
