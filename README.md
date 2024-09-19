@@ -1,7 +1,7 @@
 ![gitartwork](gitartwork.svg)
 # <h2 align="center"> 💫  About Me  💫 </h3>
 
-Highly certified **<u>AI/ML & Full-Stack Engineer</u>** with over 5 years of experience in developing robust solutions using Python and JavaScript, focusing on React for creating dynamic front-end applications. Proficient in building and integrating complex backend systems and infrastructure, excelling in the complete software development lifecycle from concept to deployment, utilizing technologies such as Docker and REST APIs.
+Highly certified **<u>AI/ML & Full-Stack Engineer</u>** with over 5 years of experience in developing robust solutions using Python and JavaScript, focusing on React for creating dynamic front-end applications. Proficient in building and integrating complex backend systems and infrastructure, excelling in the complete software development lifecycle from concept to deployment, utilizing technologies such as Docker and REST APIs. Experienced in building data systems that enhance data integration and accessibility.
 
 Emphasizing attention to detail and striving for perfection in every project. Possessing strong problem-solving abilities and a curiosity for staying updated with the latest technological advancements. With extensive skills in these areas and an active work ethic, I am positioned as the go-to person in this field.
 
