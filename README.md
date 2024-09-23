@@ -11,6 +11,7 @@ The primary objective is to develop innovative software applications that seamle
 
 **Skills:**
 - **Programming Languages:** Python, Java, JavaScript, SQL
-- **Frameworks:** React, Flask, Node.js
+- **Frameworks:** React, Flask, Django, FastAPI, Node.js, Springboot
 - **Tools & Technologies:** AWS, Docker, MongoDB, Elasticsearch, Spark, Kafka, Git, Jenkins, Kubernetes
+- **Machine Learning/AI:** TensorFlow, Pytorch, Keras, Scikit-learn, NLP, LLMs (Open AI, Gemini), LangChain, RAG, FastAI 
 - **Specializations:** Full-Stack Development, Data Infrastructure, Analytics, AI/ML, Large Language Models (LLM)
