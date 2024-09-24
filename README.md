@@ -10,7 +10,8 @@ Enjoys participating in hackathons and collaborating with like-minded individual
 The primary objective is to develop innovative software applications that seamlessly integrate data and AI, delivering personalized user experiences that effectively meet client goals and drive engagement.
 
 **Skills:**
-- **Programming Languages:** Python, Java, JavaScript, SQL
+- **Programming Languages:** Python, Java, C#, JavaScript
+- **Database:** SQL, MongoDB, PostgreSQL
 - **Frameworks:** React, Flask, Django, FastAPI, Node.js, Springboot
 - **Tools & Technologies:** AWS, Docker, MongoDB, Elasticsearch, Spark, Kafka, Git, Jenkins, Kubernetes
 - **Machine Learning/AI:** TensorFlow, Pytorch, Keras, Scikit-learn, NLP, LLMs (Open AI, Gemini), LangChain, RAG, FastAI 
