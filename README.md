@@ -12,7 +12,9 @@ The primary objective is to develop innovative software applications that seamle
 **Skills:**
 - **Programming Languages:** Python, Java, C#, JavaScript
 - **Database:** SQL, MongoDB, PostgreSQL
-- **Frameworks:** React, Flask, Django, FastAPI, Node.js, Springboot
+- **Frameworks:** React, Flask, Django, FastAPI, AsyncIO, Node.js, Springboot
 - **Tools & Technologies:** AWS, Docker, MongoDB, Elasticsearch, Spark, Hive, Hadoop, Kafka, Git, Jenkins, Kubernetes, spaCy, CUDA
-- **Machine Learning/AI:** TensorFlow, Pytorch, Keras, Scikit-learn, NLP, LLMs (Open AI, Gemini), LangChain, RAG, FastAI 
-- **Specializations:** Full-Stack Development, Data Infrastructure, Analytics, AI/ML, Large Language Models (LLM)
+- **API & Integration:** GraphQL, REST APIs, OAuth, Web Scraping
+- **Observability:** OpenTelemetry, Splunk, Weights & Biases, Weave, LangSmith
+- **Machine Learning/AI:** Open AI Agent SDK, Open AI Swarm, TensorFlow, Pytorch, Keras, Scikit-learn, NLP, LLMs (Open AI, Gemini), LangChain, RAG, FastAI 
+- **Specializations:** Full-Stack Development, MCP (Model Context Protocol), Agentic AI Systems, Multi-Agent Orchestration, Distributed Systems, Data Infrastructure, Prompt Engineering, AI/ML, Large Language Models (LLM)
